@@ -21,6 +21,7 @@
 송한울(팀원) : https://github.com/great-null<br>
 오윤섭(팀원) : https://github.com/enzomind<br>
 
+
 <h3>주요 화면</h3>
 [1] Main Dashboard<br>
 <img width="1170" alt="스크린샷 2022-11-06 오후 5 47 48" src="https://user-images.githubusercontent.com/102308415/200162016-da469d67-8cfc-403a-a964-d4fae3b0163f.png"><br>
