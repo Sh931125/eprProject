@@ -19,13 +19,7 @@
 성효영(팀원) : https://github.com/Hyongyi<br>
 박예진(팀원) : https://github.com/October7th<br>
 송한울(팀원) : https://github.com/great-null<br>
-
-<h3>담당 개발</h3>
-1. 공통 : 기간 조회 공통 스크립트 개발 및 기획(IA 정의 & 화면 기획 & 정책 정의) - 기여도 100%<br>
-2. 메인 : 대시보드 구현 및 휴가자 캘린더 구현 - 기여도 100%<br>
-3. 회계 전표 : fetch API를 활용한 리스트 조회 구현, 기간 조회와 서브 리스트 구현 - 기여도 100%<br>
-4. 로그인 : Spring Security config 수정 개발 및 권한별 메뉴 접근 설정 - 기여도 40%<br>
-5. 전자결재 : 결재수신함 통합 리스트 구현(View Union ALL 쿼리) - 기여도 10%<br>
+오윤섭(팀원) : https://github.com/enzomind<br>
 
 <h3>주요 화면</h3>
 [1] Main Dashboard<br>
