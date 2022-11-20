@@ -1,10 +1,8 @@
 package com.choongang.erpproject.accounting.dto;
 
-import lombok.Data;
 import lombok.Getter;
 
 import java.time.LocalDate;
-import java.time.LocalDateTime;
 
 @Getter
 public class AccResponseDto {
@@ -36,5 +34,8 @@ public class AccResponseDto {
     private int expense; //지출금액
     private int income; //수입금액
     private String remk; //적요
+
+    private Double payTotal; //당월 급여금액
+    private LocalDate paymdate; //급여이체일자
 
 }
